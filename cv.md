@@ -18,7 +18,7 @@ function multiply(a, b){
 } 
 ```
 ## Experience
-* [CV](https://snitkon.github.io/rsschool-cv/ "My CV")
+* [CV](https://snitkon.github.io/rsschool-cv/cv "My CV")
 ## Education
 * __University__:
     + Kyiv National University of Economics
