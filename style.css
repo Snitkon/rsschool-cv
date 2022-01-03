@@ -88,3 +88,81 @@ font-size: 4rem;
   display: flex;
   flex-direction: column;
 }
+
+.block-title {
+  font-size: 4rem;
+  font-weight: 100;
+}
+
+.about_text {
+  font-size: 2rem;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+
+.skill-list {
+  font-size: 2rem;
+  line-height: 2;
+  list-style: circle;
+}
+
+.code {
+  font-size: 1.5rem;
+}
+
+.task_list {
+  font-size: 2rem;
+  line-height: 2;
+  list-style: circle;
+}
+
+.task_link {
+  color: #f0f0f0;
+}
+
+.education_list {
+  font-size: 2rem;
+  line-height: 2;
+  list-style: none;
+  padding: 0;
+}
+
+.languages_list {
+  font-size: 2rem;
+  line-height: 2;
+  list-style: circle;
+}
+
+.social_links {
+  display: flex;
+  padding: 0;
+  font-size: 2rem;
+  gap: 25px;
+  list-style: none;
+  justify-content: center;
+}
+
+.footer_text {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.social_link {
+  display: block;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  background-size: contain;
+  background-color: #000000;
+  background-repeat: no-repeat;
+}
+
+.social_link__github {
+  background-image: url(./GitHub-Mark.png);
+}
+
+.social_link__rs {
+    background-image: url(./rs_school-og.png);
+    background-position: center;
+    border: 8px solid #ffffff;
+}
