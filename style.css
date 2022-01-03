@@ -1,0 +1,168 @@
+* {
+  box-sizing: border-box;  
+}
+
+html {
+  font-size: 10px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  color: #f0f0f0;
+  font-family: 'Lato', sans-serif;
+  background-color: #444c5c;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.wrapper {
+  width: 850px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+
+.nav_list {
+  display: flex;
+  padding: 0;
+  gap: 35px;
+  font-size: 2rem;
+  list-style: none;
+}
+
+.nav_link {
+  color: #f0f0f0;
+}
+
+.nav_info {
+  display: flex;
+  gap: 25px;
+  align-content: center;
+  align-items: center;
+}
+
+.nav_photo {
+  width: 350px;
+}
+
+.title {
+font-size: 4rem;
+}
+
+.subtitle {
+  font-weight: 100;
+}
+
+.contact-list {
+  display: flex;
+  padding: 0;
+  gap: 35px;
+  font-size: 2rem;
+  list-style: none;
+}
+
+.contact_link {
+  color: #f0f0f0;
+}
+
+.contact_info {
+  display: block;
+  font-size: 15px;
+}
+
+.main-title {
+  display: flex;
+  flex-direction: column;
+}
+
+.block-title {
+  font-size: 4rem;
+  font-weight: 100;
+}
+
+.about_text {
+  font-size: 2rem;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+
+.skill-list {
+  font-size: 2rem;
+  line-height: 2;
+  list-style: circle;
+}
+
+.code {
+  font-size: 1.5rem;
+}
+
+.task_list {
+  font-size: 2rem;
+  line-height: 2;
+  list-style: circle;
+}
+
+.task_link {
+  color: #f0f0f0;
+}
+
+.education_list {
+  font-size: 2rem;
+  line-height: 2;
+  list-style: none;
+  padding: 0;
+}
+
+.languages_list {
+  font-size: 2rem;
+  line-height: 2;
+  list-style: circle;
+}
+
+.social_links {
+  display: flex;
+  padding: 0;
+  font-size: 2rem;
+  gap: 25px;
+  list-style: none;
+  justify-content: center;
+}
+
+.footer_text {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.social_link {
+  display: block;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+  background-size: contain;
+  background-color: #000000;
+  background-repeat: no-repeat;
+}
+
+.social_link__github {
+  background-image: url(./GitHub-Mark.png);
+}
+
+.social_link__rs {
+    background-image: url(./rs_school-og.png);
+    background-position: center;
+    border: 8px solid #ffffff;
+}
