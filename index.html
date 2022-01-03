@@ -17,11 +17,11 @@
     <header class="header">
       <nav class="nav">
         <ul class="nav_list">
-          <li><a class="nav_link" href="#">About me</a></li>
-          <li><a class="nav_link" href="#">Skills</a></li>
-          <li><a class="nav_link" href="#">Code Example</a></li>
-          <li><a class="nav_link" href="#">Education</a></li>
-          <li><a class="nav_link" href="#">Languages</a></li>
+          <li><a class="nav_link" href="#about">About me</a></li>
+          <li><a class="nav_link" href="#skills">Skills</a></li>
+          <li><a class="nav_link" href="#code">Code Example</a></li>
+          <li><a class="nav_link" href="#education">Education</a></li>
+          <li><a class="nav_link" href="#languages">Languages</a></li>
         </ul>
       </nav>
       <div class="nav_info">
@@ -53,31 +53,31 @@
       </ul>
     </header>
     <main class="main">
-      <section>
-        <h2>
+      <section id="about">
+        <h2 class="block-title">
           About me
         </h2>
-        <p>I am 29 years old. Graduated Kyiv National University of Economics with a bachelor's degree and
+        <p class="about_text">I am 29 years old. Graduated Kyiv National University of Economics with a bachelor's degree and
           Belarus State Economic University with a Master's degree in international finance and investment. I
           worked with finance and stocks market. I am fond of sports, books and games on consoles. I like to play
           football, read business literature and snowboard in winter. I like to discover new things, so I decided
           to try myself in IT.</p>
       </section>
-      <section>
-        <h2>
+      <section id="skills">
+        <h2 class="block-title">
           Skills
         </h2>
-        <ul>
+        <ul class="skill-list">
           <li>HTML (Beginner)</li>
           <li>CSS (Beginner)</li>
           <li>Git/GitHub (Beginner)</li>
         </ul>
       </section>
-      <section>
-        <h2>
+      <section id="code">
+        <h2 class="block-title">
           Code Example
         </h2>
-        <pre>
+        <pre class="code">
           <code>
             function multiply(a, b){
               return a * b
@@ -85,20 +85,20 @@
           </code>
         </pre>
       </section>
-      <section>
-        <h2>
+      <section id="tasks">
+        <h2 class="block-title">
           Completed training tasks
         </h2>
-        <ul>
-          <li><a href="https://snitkon.github.io/rsschool-cv/cv">Markdown & Git</a></li>
+        <ul class="task_list">
+          <li><a class="task_link" href="https://snitkon.github.io/rsschool-cv/cv">Markdown & Git</a></li>
           <li>... will be added soon</li>
         </ul>
       </section>
-      <section>
-        <h2>
+      <section id="education">
+        <h2 class="block-title">
           Education
         </h2>
-        <ul>
+        <ul class="education_list">
           <li>
             University
             <ul>
@@ -108,26 +108,26 @@
           </li>
         </ul>
       </section>
-      <section>
-        <h2>
+      <section id="languages">
+        <h2 class="block-title">
           Languages
         </h2>
-        <ul>
+        <ul class="languages_list">
           <li>Russian: Native speaker</li>
           <li>English: A2/A2+ (B1 in process)</li>
         </ul>
       </section>
     </main>
     <footer class="footer">
-      <ul>
+      <ul class="social_links">
         <li>
-          <a href="https://github.com/Snitkon">My github</a>
+          <a class="social_link social_link__github" href="https://github.com/Snitkon"></a>
         </li>
         <li>
-          <a href="https://rs.school/js/">RS School</a>
+          <a class="social_link social_link__rs" href="https://rs.school/js/"></a>
         </li>
       </ul>
-      <p>Snitko Nikita, 2022</p>
+      <p class="footer_text">Snitko Nikita, 2022</p>
     </footer>
   </div>
 </body>
