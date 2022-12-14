@@ -17,7 +17,26 @@ I am 30 years old. I am from Belarus, but now based Georgia. Graduated Kyiv Nati
 * __JS__ (Beginner)
 * __TS__ (Beginner)
 * __React__(Beginer)
+## Code Example (React)
+```
+export const SubTimer = () => {
+  const [day, setDay] = useState(13)
 
+  function Splitter(props: any) {
+    return (
+      <div style={ { position: "absolute", height: "100%", transform: 'rotate(${props.turns}turn)' } }>
+        <div style={props.style} />
+      </div>
+    );
+  }
+
+  function RadialSplitter(props: any) {
+    const turns = 1 / props.count;
+    return <> {_.range(props.count).map(index => (
+      <Splitter key={index} turns={index * turns} style={props.style} />
+    ))}</>;
+  }
+```
 ## Experience
 * [CV](https://snitkon.github.io/rsschool-cv/cv "My CV")
 ## Education
