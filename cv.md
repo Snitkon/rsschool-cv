@@ -17,22 +17,14 @@ I am 30 years old. I am from Belarus, but now based Georgia. Graduated Kyiv Nati
 * __JS__ (Beginner)
 * __TS__ (Beginner)
 * __React__(Beginer)
-## Code Example
+## Code Example (React)
 ```
-React
-
 export const SubTimer = () => {
   const [day, setDay] = useState(15)
 
   function Splitter(props: any) {
     return (
-      <div
-        style={{
-          position: "absolute",
-          height: "100%",
-          transform: `rotate(${props.turns}turn)`
-        }}
-      >
+      <div style={ { position: "absolute", height: "100%", transform: 'rotate(${props.turns}turn)' } }>
         <div style={props.style} />
       </div>
     );
