@@ -9,10 +9,14 @@
 * __Discord__: Snitkon#2880
 ## About me
 I am 29 years old. Graduated Kyiv National University of Economics with a bachelor's degree and Belarus State Economic University with a Master's degree in international finance and investment. I worked with finance and stocks market. I am fond of sports, books and games on consoles. I like to play football, read business literature and snowboard in winter. I like to discover new things, so I decided to try myself in IT. I actively study the IT field and improve my technical and programming skills almost every day.
-## Skils
-* __HTML__ (Beginner)
-* __CSS__ (Beginner)
-* __Git__/__GitHub__ (Beginner)
+## Skills
+* __HTML__
+* __CSS (Flex, Grid (Beginner))__
+* __SASS__ (Beginner)
+* __Git__/__GitHub__
+* __JS__ (Beginner)
+* __TS__ (Beginner)
+* __React__(Beginer)
 ## Code Example
 ```
 function multiply(a, b){
