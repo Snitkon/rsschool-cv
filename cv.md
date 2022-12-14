@@ -17,10 +17,8 @@ I am 30 years old. I am from Belarus, but now based Georgia. Graduated Kyiv Nati
 * __JS__ (Beginner)
 * __TS__ (Beginner)
 * __React__(Beginer)
-## Code Example
-```
-React
-
+## Code Example (React)
+```  
 export const SubTimer = () => {
   const [day, setDay] = useState(15)
 
