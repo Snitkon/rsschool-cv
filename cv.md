@@ -50,4 +50,4 @@ export const SubTimer = () => {
     [Certificate (Stage #1 - Stage #2).pdf](https://github.com/Snitkon/rsschool-cv/files/10228823/Certificate.Stage.1.-.Stage.2.pdf)
 ## Languages
 * __Russian__: Native speaker
-* __English__: A2+(B1 in process)
+* __English__: A2+ (B1 in process)
