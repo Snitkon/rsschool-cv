@@ -20,7 +20,7 @@ I am 30 years old. I am from Belarus, but now based Georgia. Graduated Kyiv Nati
 ## Code Example (React)
 ```
 export const SubTimer = () => {
-  const [day, setDay] = useState(15)
+  const [day, setDay] = useState(13)
 
   function Splitter(props: any) {
     return (
