@@ -1,10 +1,12 @@
 # Nikita Snitko
 ## Contacts
-* __Phone__: +375(29)668-11-74
+* __Phone__: +375(29)668-11-74, +995 511-104-349
 * __From__: Belarus, Minsk
+* __Based__: Georgia, Tbilisi
 * __Email__: snitkonikita@gmail.com
+* __Telegram__: snitkon
 * __GitHub__: Snitkon
-* __Discord__: Nikita Snitko (@Snitkon)
+* __Discord__: Snitkon#2880
 ## About me
 I am 29 years old. Graduated Kyiv National University of Economics with a bachelor's degree and Belarus State Economic University with a Master's degree in international finance and investment. I worked with finance and stocks market. I am fond of sports, books and games on consoles. I like to play football, read business literature and snowboard in winter. I like to discover new things, so I decided to try myself in IT.
 ## Skils
