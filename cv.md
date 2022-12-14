@@ -1,6 +1,6 @@
 # Nikita Snitko
 ## Contacts
-* __Phone__: +375(29)668-11-74, +995 511 104 349
+* __Phone__: +375(29)668-11-74, +995 511-104-349
 * __From__: Belarus, Minsk
 * __Based__: Georgia, Tbilisi
 * __Email__: snitkonikita@gmail.com
