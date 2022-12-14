@@ -18,7 +18,7 @@ I am 30 years old. I am from Belarus, but now based Georgia. Graduated Kyiv Nati
 * __TS__ (Beginner)
 * __React__(Beginer)
 ## Code Example
-```javascript
+```
 React
 
 export const SubTimer = () => {
@@ -31,7 +31,7 @@ export const SubTimer = () => {
           position: "absolute",
           height: "100%",
           transform: 'rotate(${props.turns}turn)'
-        }}
+        /\}\}
       >
         <div style={props.style} />
       </div>
