@@ -1,1 +1,1 @@
-https://snitkon.github.io/rsschool-cv
+https://snitkon.github.io/rsschool-cv/cv
