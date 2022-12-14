@@ -16,6 +16,7 @@ I am 30 years old. I am from Belarus, but now based Georgia. Graduated Kyiv Nati
 * __Git__/__GitHub__
 * __JS__ (Beginner)
 * __TS__ (Beginner)
+* __React__(Beginer)
 ## Code Example
 ```
 function multiply(a, b){
