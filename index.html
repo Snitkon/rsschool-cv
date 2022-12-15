@@ -91,13 +91,37 @@
       </section>
       <section id="code">
         <h2 class="block-title">
-          Code Example
+          Code Example (React)
         </h2>
         <pre class="code">
           <code>
-            function multiply(a, b){
-              return a * b
-            } 
+            export const SubTimer = () => {
+              const [day, setDay] = useState(13)
+            
+              function Splitter(props: any) {
+                return (
+                  &lt;div style={{ 
+                    position: "absolute", 
+                    height: "100%", 
+                    transform: 'rotate(${props.turns}turn)' 
+                  }}&gt;
+                  &lt;div 
+                    style={props.style} 
+                  /&gt;
+                    &lt;/div&gt;
+                );
+              }
+            
+              function RadialSplitter(props: any) {
+                const turns = 1 / props.count;
+                return &lt;&gt; {_.range(props.count).map(index => (
+                  &lt;Splitter 
+                    key={index} 
+                    turns={index * turns} 
+                    style={props.style} 
+                  /&gt;
+                ))}&lt;/&gt;;
+              }
           </code>
         </pre>
       </section>
