@@ -89,13 +89,13 @@
             
               function Splitter(props: any) {
                 return (
-                  &lt;div style={{ 
-                    position: "absolute", 
-                    height: "100%", 
-                    transform: 'rotate(${props.turns}turn)' 
+                  &lt;div style={{
+                    position: "absolute",
+                    height: "100%",
+                    transform: 'rotate(${props.turns}turn)'
                   }}&gt;
-                  &lt;div 
-                    style={props.style} 
+                  &lt;div
+                    style={props.style}
                   /&gt;
                     &lt;/div&gt;
                 );
@@ -104,10 +104,10 @@
               function RadialSplitter(props: any) {
                 const turns = 1 / props.count;
                 return &lt;&gt; {_.range(props.count).map(index =&gt; (
-                  &lt;Splitter 
-                    key={index} 
-                    turns={index * turns} 
-                    style={props.style} 
+                  &lt;Splitter
+                    key={index}
+                    turns={index * turns}
+                    style={props.style}
                   /&gt;
                 ))}&lt;/&gt;;
               }
