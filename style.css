@@ -127,6 +127,10 @@ font-size: 4rem;
   padding: 0;
 }
 
+.education_list__courseCertificate {
+  width: 500px;
+}
+
 .languages_list {
   font-size: 2rem;
   line-height: 2;
@@ -158,11 +162,11 @@ font-size: 4rem;
 }
 
 .social_link__github {
-  background-image: url(./GitHub-Mark.png);
+  background-image: url(./assets/GitHub-Mark.png);
 }
 
 .social_link__rs {
-    background-image: url(./rs_school-og.png);
+    background-image: url(./assets/rs_school-og.png);
     background-position: center;
     border: 8px solid #ffffff;
 }
