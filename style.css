@@ -70,7 +70,7 @@ font-size: 4rem;
 .contact-list {
   display: flex;
   padding: 0;
-  gap: 35px;
+  gap: 29px;
   font-size: 2rem;
   list-style: none;
 }
