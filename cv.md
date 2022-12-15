@@ -8,7 +8,7 @@
 * __GitHub__: Snitkon
 * __Discord__: Snitkon#2880
 ## About me
-I am 29 years old. Graduated Kyiv National University of Economics with a bachelor's degree and Belarus State Economic University with a Master's degree in international finance and investment. I worked with finance and stocks market. I am fond of sports, books and games on consoles. I like to play football, read business literature and snowboard in winter. I like to discover new things, so I decided to try myself in IT. I actively study the IT field and improve my technical and programming skills almost every day.
+I am 30 years old. I am from Belarus, but based Georgia. Graduated Kyiv National University of Economics with a bachelor's degree and Belarus State Economic University with a Master's degree in international finance and investment. I worked with finance and stocks market. I am fond of sports, books and games on consoles. I like to play football, read business literature and snowboard in winter. I like to discover new things, so I decided to try myself in IT. I actively study the IT field and improve my technical and programming skills almost every day.
 ## Skills
 * __HTML__
 * __CSS (Flex, Grid (Beginner))__
