@@ -102,13 +102,13 @@
             
               function Splitter(props: any) {
                 return (
-                  &lt;div style={{ 
-                    position: "absolute", 
-                    height: "100%", 
-                    transform: 'rotate(${props.turns}turn)' 
+                  &lt;div style={{
+                    position: "absolute",
+                    height: "100%",
+                    transform: 'rotate(${props.turns}turn)'
                   }}&gt;
-                  &lt;div 
-                    style={props.style} 
+                  &lt;div
+                    style={props.style}
                   /&gt;
                     &lt;/div&gt;
                 );
@@ -117,10 +117,10 @@
               function RadialSplitter(props: any) {
                 const turns = 1 / props.count;
                 return &lt;&gt; {_.range(props.count).map(index =&gt; (
-                  &lt;Splitter 
-                    key={index} 
-                    turns={index * turns} 
-                    style={props.style} 
+                  &lt;Splitter
+                    key={index}
+                    turns={index * turns}
+                    style={props.style}
                   /&gt;
                 ))}&lt;/&gt;;
               }
@@ -133,7 +133,7 @@
         </h2>
         <ul class="task_list">
           <li><a class="task_link" href="https://snitkon.github.io/rsschool-cv/cv">Markdown &amp; Git</a></li>
-          <li>... will be added soon</li>
+          <li>...will be added soon</li>
         </ul>
       </section>
       <section id="education">
@@ -176,7 +176,8 @@
     <footer class="footer">
       <ul class="social_links">
         <li>
-          <a class="social_link social_link__github" href="https://github.com/Snitkon"><span class="hidden">Link</span></a>
+          <a class="social_link social_link__github" href="https://github.com/Snitkon"><span
+              class="hidden">Link</span></a>
         </li>
         <li>
           <a class="social_link social_link__rs" href="https://rs.school/js/"><span class="hidden">Link</span></a>
