@@ -170,3 +170,7 @@ font-size: 4rem;
     background-position: center;
     border: 8px solid #ffffff;
 }
+
+.hidden {
+  display: none;
+}
