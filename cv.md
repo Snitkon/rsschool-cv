@@ -3,8 +3,7 @@
 ## Contacts
 
 - **Phone**: +48 571-007-746
-- **From**: Belarus, Minsk
-- **Based**: Poland, Bialystok
+- **Location**: Poland, Bialystok
 - **Email**: snitkonikita@gmail.com
 - **Telegram**: @snitkon
 - **GitHub**: Snitkon
@@ -20,14 +19,14 @@ In my free time, I enjoy reading business literature, doing sports, and learning
 
 ## Skills
 
-- ### **Programming Languages**:
+- **Programming Languages**:
 
   - JavaScript
   - TypeScript
   - HTML
   - CSS
 
-- ### **Frameworks and Libraries**:
+- **Frameworks and Libraries**:
 
   - React
   - Redux
@@ -36,14 +35,14 @@ In my free time, I enjoy reading business literature, doing sports, and learning
   - SASS
   - TailwindCSS
 
-- ### **Backend and Databases**:
+- **Backend and Databases**:
 
   - Express
   - Node.js
   - MongoDB
   - Swagger
 
-- ### **Tools**:
+- **Tools**:
 
   - Git/GitHub
   - Webpack
@@ -121,14 +120,17 @@ module.exports = APIFeatures;
 
 ## Experience
 
-- [CV](https://snitkon.github.io/rsschool-cv/cv 'My CV')
+- [My CV](https://snitkon.github.io/rsschool-cv/cv 'My CV')
 
 ## Education
 
 - **University**:
+
   - Kyiv National University of Economics
   - Belarus State Economic University
+
 - **Сourses**:
+
   - The Rolling Scopes School (JavaScript/Front-End Stage#0)
     [Certificate (Stage #0).pdf](https://github.com/Snitkon/rsschool-cv/files/10228812/Certificate.Stage.0.pdf)
   - The Rolling Scopes School (JavaScript/Front-End Stage#1 - Stage#2)
@@ -137,4 +139,4 @@ module.exports = APIFeatures;
 ## Languages
 
 - **Russian**: Native speaker
-- **English**: A2+ (B1 in process)
+- **English**: B1
