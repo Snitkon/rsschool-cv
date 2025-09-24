@@ -20,13 +20,36 @@ In my free time, I enjoy reading business literature, doing sports, and learning
 
 ## Skills
 
-- **HTML**
-- **CSS (Flex, Grid (Beginner))**
-- **SASS** (Beginner)
-- **Git**/**GitHub**
-- **JS** (Beginner)
-- **TS** (Beginner)
-- **React**(Beginer)
+- ### **Programming Languages**:
+
+  - JavaScript
+  - TypeScript
+  - HTML
+  - CSS
+
+- ### **Frameworks and Libraries**:
+
+  - React
+  - Redux
+  - Next
+  - Style-Components
+  - SASS
+  - TailwindCSS
+
+- ### **Backend and Databases**:
+
+  - Express
+  - Node.js
+  - MongoDB
+  - Swagger
+
+- ### **Tools**:
+
+  - Git/GitHub
+  - Webpack
+  - Vite
+  - Postman
+  - Figma
 
 ## Code Example (React)
 
