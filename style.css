@@ -1,5 +1,5 @@
 * {
-  box-sizing: border-box;  
+  box-sizing: border-box;
 }
 
 html {
@@ -60,7 +60,7 @@ a {
 }
 
 .title {
-font-size: 4rem;
+  font-size: 4rem;
 }
 
 .subtitle {
@@ -166,9 +166,9 @@ font-size: 4rem;
 }
 
 .social_link__rs {
-    background-image: url(./assets/rs_school-og.png);
-    background-position: center;
-    border: 8px solid #ffffff;
+  background-image: url(./assets/rs_school-og.png);
+  background-position: center;
+  border: 8px solid #ffffff;
 }
 
 .hidden {
