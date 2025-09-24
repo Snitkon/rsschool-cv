@@ -120,7 +120,7 @@ module.exports = APIFeatures;
 
 ## Experience
 
-- [My CV](https://snitkon.github.io/rsschool-cv/cv 'My CV')
+- [My CV](https://snitkon.github.io/rsschool-cv/cv)
 
 ## Education
 
