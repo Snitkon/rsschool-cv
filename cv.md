@@ -1,23 +1,31 @@
-# Nikita Snitko
+# Mikita Snitko
+
 ## Contacts
-* __Phone__: +375(29)668-11-74, +995 511-104-349
-* __From__: Belarus, Minsk
-* __Based__: Georgia, Tbilisi
-* __Email__: snitkonikita@gmail.com
-* __Telegram__: snitkon
-* __GitHub__: Snitkon
-* __Discord__: Snitkon#2880
+
+- **Phone**: +48 571-007-746
+- **From**: Belarus, Minsk
+- **Based**: Poland, Bialystok
+- **Email**: snitkonikita@gmail.com
+- **Telegram**: @snitkon
+- **GitHub**: Snitkon
+- **Discord**: Mikita (@snitkon)
+
 ## About me
+
 I am 30 years old. I am from Belarus, but based Georgia. Graduated Kyiv National University of Economics with a bachelor's degree and Belarus State Economic University with a Master's degree in international finance and investment. I worked with finance and stocks market. I am fond of sports, books and games on consoles. I like to play football, read business literature and snowboard in winter. I like to discover new things, so I decided to try myself in IT. I actively study the IT field and improve my technical and programming skills almost every day.
+
 ## Skills
-* __HTML__
-* __CSS (Flex, Grid (Beginner))__
-* __SASS__ (Beginner)
-* __Git__/__GitHub__
-* __JS__ (Beginner)
-* __TS__ (Beginner)
-* __React__(Beginer)
+
+- **HTML**
+- **CSS (Flex, Grid (Beginner))**
+- **SASS** (Beginner)
+- **Git**/**GitHub**
+- **JS** (Beginner)
+- **TS** (Beginner)
+- **React**(Beginer)
+
 ## Code Example (React)
+
 ```
 export const SubTimer = () => {
   const [day, setDay] = useState(13)
@@ -37,17 +45,23 @@ export const SubTimer = () => {
     ))}</>;
   }
 ```
+
 ## Experience
-* [CV](https://snitkon.github.io/rsschool-cv/cv "My CV")
+
+- [CV](https://snitkon.github.io/rsschool-cv/cv 'My CV')
+
 ## Education
-* __University__:
-    + Kyiv National University of Economics
-    + Belarus State Economic University
-* __Сourses__:
-    + The Rolling Scopes School (JavaScript/Front-End Stage#0)
-      [Certificate (Stage #0).pdf](https://github.com/Snitkon/rsschool-cv/files/10228812/Certificate.Stage.0.pdf)
-    + The Rolling Scopes School (JavaScript/Front-End Stage#1 - Stage#2)
-      [Certificate (Stage #1 - Stage #2).pdf](https://github.com/Snitkon/rsschool-cv/files/10228823/Certificate.Stage.1.-.Stage.2.pdf)
+
+- **University**:
+  - Kyiv National University of Economics
+  - Belarus State Economic University
+- **Сourses**:
+  - The Rolling Scopes School (JavaScript/Front-End Stage#0)
+    [Certificate (Stage #0).pdf](https://github.com/Snitkon/rsschool-cv/files/10228812/Certificate.Stage.0.pdf)
+  - The Rolling Scopes School (JavaScript/Front-End Stage#1 - Stage#2)
+    [Certificate (Stage #1 - Stage #2).pdf](https://github.com/Snitkon/rsschool-cv/files/10228823/Certificate.Stage.1.-.Stage.2.pdf)
+
 ## Languages
-* __Russian__: Native speaker
-* __English__: A2+ (B1 in process)
+
+- **Russian**: Native speaker
+- **English**: A2+ (B1 in process)
