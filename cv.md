@@ -12,7 +12,11 @@
 
 ## About me
 
-I am 30 years old. I am from Belarus, but based Georgia. Graduated Kyiv National University of Economics with a bachelor's degree and Belarus State Economic University with a Master's degree in international finance and investment. I worked with finance and stocks market. I am fond of sports, books and games on consoles. I like to play football, read business literature and snowboard in winter. I like to discover new things, so I decided to try myself in IT. I actively study the IT field and improve my technical and programming skills almost every day.
+I am a Front-end Developer working with JavaScript, TypeScript, and React.js to build modern and user-friendly web applications. I also study and practice Node.js and Express to gain more full-stack development skills. I improve my technical and programming knowledge almost every day.
+
+I graduated with a Bachelor’s degree from Kyiv National University of Economics and a Master’s degree in International Finance and Investment from Belarus State Economic University. Before IT, I worked in finance and the stock market.
+
+In my free time, I enjoy reading business literature, doing sports, and learning new things.
 
 ## Skills
 
