@@ -8,8 +8,9 @@
   <link rel="stylesheet" href="style.css">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,100;1,300;1,700&display=swap" rel="stylesheet">
-  <title>Snitko Nikita CV</title>
+  <link href="https://fonts.googleapis.com/css2?family=SUSE+Mono:ital,wght@0,100..800;1,100..800&display=swap"
+    rel="stylesheet">
+  <title>Snitko Mikita CV</title>
 </head>
 
 <body>
@@ -24,125 +25,186 @@
           <li><a class="nav_link" href="#languages">Languages</a></li>
         </ul>
       </nav>
-      <div class="nav_info">
-        <img class="nav_photo" src="./assets/snitkon.jpeg" alt="Nikita Snitko" width="200">
-        <h1 class="main-title">
-          <span class="title">Nikita Snitko</span>
-          <span class="subtitle">Front-end web developer (Beginner)</span>
-        </h1>
+      <div class="info">
+        <img class="info_photo" src="./assets/CV_photo.png" alt="Mikita Snitko" width="200">
+        <div class="info_contact">
+          <h1 class="info_title">
+            <span class="title">Mikita Snitko</span>
+            <span class="subtitle">Front-End Developer</span>
+          </h1>
+          <ul class="contact-list">
+            <li>Location:
+              <span class="contact_info">Bialystok, Poland</span>
+            </li>
+            <li>Phone:
+              <a class="contact_link contact_info" href="tel:+48571007746">+48 571&#8209;007&#8209;746</a>
+            </li>
+            <li>Email:
+              <a class="contact_link contact_info" href="mailto:snitkonikita@gmail.com">snitkonikita@gmail.com</a>
+            </li>
+            <li>Telegram:
+              <span class="contact_info">@snitkon</span>
+            </li>
+            <li>GitHub:
+              <a class="contact_link contact_info" href="https://github.com/Snitkon">Snitkon</a>
+            </li>
+            <li>Discord:
+              <span class="contact_info">snitkon</span>
+            </li>
+          </ul>
+        </div>
       </div>
-      <ul class="contact-list">
-        <li>From:
-          <span class="contact_info">Belarus, Minsk</span>
-        </li>
-        <li>Based:
-          <span class="contact_info">Georgia, Tbilisi</span>
-        </li>
-        <li>Phone:
-          <a class="contact_link contact_info" href="tel:+375296681174">+375(29)668&#8209;11&#8209;74;</a>
-          <a class="contact_link contact_info" href="tel:+995511104349">+995&nbsp;511&#8209;104&#8209;349</a>
-        </li>
-        <li>Email:
-          <a class="contact_link contact_info" href="mailto:snitkonikita@gmail.com">snitkonikita@gmail.com</a>
-        </li>
-        <li>Telegram:
-          <span class="contact_info">snitkon</span>
-        </li>
-        <li>GitHub:
-          <a class="contact_link contact_info" href="https://github.com/Snitkon">Snitkon</a>
-        </li>
-        <li>Discord:
-          <span class="contact_info">Snitkon#2880</span>
-        </li>
-      </ul>
     </header>
     <main class="main">
-      <section id="about">
-        <h2 class="block-title">About me</h2>
-        <p class="about_text">I am 30 years old. I am from Belarus, but based Georgia. Graduated Kyiv National
-          University of Economics with a bachelor's degree and
-          Belarus State Economic University with a Master's degree in international finance and investment. I
-          worked with finance and stocks market. I am fond of sports, books and games on consoles. I like to play
-          football, read business literature and snowboard in winter. I like to discover new things, so I decided
-          to try myself in IT. I actively study the IT field and improve my technical and programming skills almost
-          every day.</p>
+      <section class="section" id="about">
+        <h2 class="section_title">About me</h2>
+        <p class="about_text">I am a Front-end Developer working with JavaScript, TypeScript, and React.js to build
+          modern and user-friendly web applications. I also
+          study and practice Node.js and Express to gain more full-stack development skills. I improve my technical and
+          programming knowledge almost
+          every day. I graduated with a Bachelor’s degree from Kyiv National University of Economics and a Master’s
+          degree in International Finance
+          and Investment from Belarus State Economic University. Before IT, I worked in finance and the stock market. In
+          my free time, I enjoy
+          reading business literature, doing sports, and learning new things.</p>
       </section>
-      <section id="skills">
-        <h2 class="block-title">Skills</h2>
-        <ul class="skill-list">
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>CSS Flex</li>
-          <li>CSS Grid (Brginner)</li>
-          <li>Git/GitHub</li>
-          <li>JS (Brginner)</li>
-          <li>TS (Brginner)</li>
-          <li>React (Brginner)</li>
-        </ul>
+      <section class="section skills" id="skills">
+        <h2 class="section_title">Skills</h2>
+        <div class="section_skills">
+          <span class="section_subtitle">Programming Languages</span>
+          <ul class="skill_list">
+            <li>JavaScript</li>
+            <li>TypeScript</li>
+            <li>HTML</li>
+            <li>CSS</li>
+          </ul>
+        </div>
+        <div class="section_skills">
+          <span class="section_subtitle">Frameworks and Libraries</span>
+          <ul class="skill_list">
+            <li>React</li>
+            <li>Redux</li>
+            <li>Next</li>
+            <li>Style-Components</li>
+            <li>SASS</li>
+            <li>TailwindCSS</li>
+          </ul>
+        </div>
+        <div class="section_skills">
+          <span class="section_subtitle">Backend and Databases</span>
+          <ul class="skill_list">
+            <li>Express</li>
+            <li>Node.js</li>
+            <li>MongoDB</li>
+            <li>Swagger</li>
+          </ul>
+        </div>
+        <div class="section_skills">
+          <span class="section_subtitle">Tools</span>
+          <ul class="skill_list">
+            <li>Git/GitHub</li>
+            <li>Webpack</li>
+            <li>Vite</li>
+            <li>Postman</li>
+            <li>Figma</li>
+          </ul>
+        </div>
       </section>
-      <section id="code">
-        <h2 class="block-title">Code Example (React)</h2>
+      <section class="section" id="code">
+        <h2 class="section_title">Code Example</h2>
         <pre class="code">
           <code>
-            export const SubTimer = () =&gt; {
-              const [day, setDay] = useState(13)
+class APIFeatures {
+  constructor(query, queryString) {
+    this.query = query;
+    this.queryString = queryString;
+  }
 
-              function Splitter(props: any) {
-                return (
-                  &lt;div style={{
-                    position: "absolute",
-                    height: "100%",
-                    transform: 'rotate(${props.turns}turn)'
-                  }}&gt;
-                  &lt;div
-                    style={props.style}
-                  /&gt;
-                    &lt;/div&gt;
-                );
-              }
+    // 1) Filtering
 
-              function RadialSplitter(props: any) {
-                const turns = 1 / props.count;
-                return &lt;&gt; {_.range(props.count).map(index =&gt; (
-                  &lt;Splitter
-                    key={index}
-                    turns={index * turns}
-                    style={props.style}
-                  /&gt;
-                ))}&lt;/&gt;;
-              }
+  filter() {
+    const objQuery = Object.assign({}, this.queryString);
+    const excludedFields = ['page', 'limit', 'sort', 'fields'];
+    excludedFields.forEach((el) => delete objQuery[el]);
+
+    let queryString = JSON.stringify(objQuery);
+    queryString = queryString.replace(
+      /\b(gte|gt|lte|lt)\b/g,
+      (match) => `$${match}`
+    );
+    this.query = this.query.find(JSON.parse(queryString));
+
+    return this;
+  }
+
+    // 2) Sorting
+
+  sort() {
+    if (this.queryString.sort) {
+      const sortBy = this.queryString.sort.split(',').join(' ');
+      this.query = this.query.sort(sortBy);
+    } else {
+      this.query = this.query.sort('createdAt');
+    }
+    return this;
+  }
+
+    // 3)Limiting Field
+
+  limit() {
+
+    if (this.queryString.fields) {
+      const limitField = this.queryString.fields.split(',').join(' ');
+      this.query = this.query.select(limitField);
+    } else {
+      this.query = this.query.select('-__v');
+    }
+
+    return this;
+  }
+
+    //? 4)Pagination
+
+  pagination() {
+    const page = this.queryString.page * 1 || 1;
+    const limit = this.queryString.limit * 1 || 100;
+    const skip = (page - 1) * limit;
+
+    this.query = this.query.skip(skip).limit(limit);
+
+    return this;
+  }
+}
+
+module.exports = APIFeatures;
           </code>
         </pre>
       </section>
-      <section id="tasks">
-        <h2 class="block-title">
-          Completed training tasks
-        </h2>
+      <section class="section" id="tasks">
+        <h2 class="section_title"> Completed training tasks </h2>
         <ul class="task_list">
           <li><a class="task_link" href="https://snitkon.github.io/rsschool-cv/cv">Markdown &amp; Git</a></li>
           <li>... will be added soon</li>
         </ul>
       </section>
-      <section id="education">
-        <h2 class="block-title">
-          Education
-        </h2>
+      <section class="section" id="education">
+        <h2 class="section_title"> Education </h2>
         <ul class="education_list">
           <li>
-            University
+            <span class="section_subtitle"> University </span>
             <ul>
               <li>Kyiv National University of Economics</li>
               <li>Belarus State Economic University</li>
             </ul>
           </li>
           <li>
-            Сourses
+            <span class="section_subtitle"> Courses </span>
             <ul>
-              <li>The Rolling Scopes School (JavaScript/Front-End Stage#0)
+              <li>The Rolling Scopes School (JS/FE Stage#0)
                 <img class="education_list__courseCertificate" src="./assets/certificate/Certificate_Stage_0.jpg"
                   alt="certificate">
               </li>
-              <li>The Rolling Scopes School (JavaScript/Front-End Stage#1 - Stage#2)
+              <li>The Rolling Scopes School (JS/FE Stage#1/2)
                 <img class="education_list__courseCertificate"
                   src="./assets/certificate/Certificate_Stage_1-Stage_2.jpg" alt="certificate">
               </li>
@@ -150,27 +212,26 @@
           </li>
         </ul>
       </section>
-      <section id="languages">
-        <h2 class="block-title">
-          Languages
-        </h2>
+      <section class="section" id="languages">
+        <h2 class="section_title"> Languages </h2>
         <ul class="languages_list">
           <li>Russian: Native speaker</li>
-          <li>English: A2+ (B1 in process)</li>
+          <li>English: B1</li>
         </ul>
       </section>
     </main>
     <footer class="footer">
       <ul class="social_links">
         <li>
-          <a class="social_link social_link__github" href="https://github.com/Snitkon"><span
+          <a class="social_link social_link__github" href="https://github.com/Snitkon" target="_blank"><span
               class="hidden">Link</span></a>
         </li>
         <li>
-          <a class="social_link social_link__rs" href="https://rs.school/js/"><span class="hidden">Link</span></a>
+          <a class="social_link social_link__rs" href="https://rs.school/courses/short-track" target="_blank"><span
+              class="hidden">Link</span></a>
         </li>
       </ul>
-      <p class="footer_text">Snitko Nikita, 2022</p>
+      <p class="footer_text">Snitko Mikita, 2022</p>
     </footer>
   </div>
 </body>
